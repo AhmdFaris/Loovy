@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707206372 source:c:\users\dell\documents\new folder2\latihan c++\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

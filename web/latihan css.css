@@ -1,0 +1,21 @@
+
+body {
+  body {
+    background-image: url('Foto/𝚂𝚑𝚒𝚗𝚐𝚎𝚔i.jpg'); /* Ganti 'background.jpg' dengan path atau URL gambar latar belakang Anda */
+    background-size: cover; /* Untuk menyesuaikan gambar agar sesuai dengan ukuran layar */
+    background-position: center; /* Untuk menentukan posisi gambar latar belakang */
+    background-repeat: no-repeat; /* Untuk mencegah pengulangan gambar latar belakang */
+}
+
+}
+.video1 {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  padding-top: 90px;
+  padding-bottom: 60px;
+}
+.faris{
+  background-image: url(Foto\𝚂𝚑𝚒𝚗𝚐𝚎𝚔i.jpg);
+  background-size: cover;
+}
